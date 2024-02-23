@@ -1,0 +1,54 @@
+header{
+    background-color: #ed6440;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+nav ul{
+    list-style-type: none;
+     text-align: left;
+}
+
+nav ul li{
+    display: inline;
+}
+
+
+body{
+    margin: 0;
+    pad: 0;
+    
+}
+
+a{
+    font-family: "Nunito";
+    font-weight: 800;
+    margin-inline-start: 1cm;
+    color: black;
+    text-decoration: none;
+
+}
+
+.caixa-principal{
+    text-align: center;
+}
+
+footer{
+    background-color: #ed6440;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    justify-content: center
+    
+}
+
+P{
+    font-family: "Nunito";
+    font-weight: 800;
+    margin-inline-start: 1cm;
+    color: black;
+    text-decoration: none;
+}
+
+
